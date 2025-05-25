@@ -1,0 +1,2 @@
+APP_URL=https://wira09.github.io/Wira-Story/#/login
+MAP_SERVICE_API_KEY=5R7hUp73p9IjTMZzPIwL
